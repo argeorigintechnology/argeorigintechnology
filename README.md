@@ -150,9 +150,9 @@ Personal Website: [mkdir.dev](https://mkdir.dev) or [muzafferkadir.com](https://
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=argeorigintechnology&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=argeorigintechnology&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argeorigintechnology&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argeorigintechnology&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <!--
