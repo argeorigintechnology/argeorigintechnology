@@ -1,7 +1,20 @@
 ### Hi there, I'm Sezgin KEŞCİOĞLU | Origin Technology 👋
 
 <img src="https://komarev.com/ghpvc/?username=argeorigintechnology&label=Profile%20views&color=0e75b6&style=flat" alt="sezginkescioglu" />
-Software developer with 5+ years of experience who has worked on the back-end and front-end of various websites, from successful startups to e-commerce, messaging, and news services. Proven skills in problem-solving, analytical thinking, and creativity across diverse projects. Deeply engaged with Artificial Intelligence, specialized in Prompt Engineering, integrating LLMs into automated workflows, and developing AI-powered platforms like chatbot solutions. Experienced in JavaScript technologies such as Node.js (Express), Vue, Next.js and React. Also has a solid foundation in MongoDB, Docker, and DevOps.
+Hi there 👋
+
+I’m a Software Architect & Backend Engineer who enjoys building scalable systems, AI-powered products, and turning messy infrastructures into clean and maintainable platforms.
+
+For the last 11+ years, I’ve worked on telecom, finance, aviation, and enterprise projects — mostly around microservices, distributed systems, Kubernetes, observability, and backend architecture.
+
+Lately, I’ve been focusing heavily on AI integrations, RAG systems, LLM workflows, and conversational product experiences. Currently building AkıllıEmlak under Origin Technology — an AI-powered real estate platform where users can search homes using natural language.
+
+Tech I frequently work with:
+Java • Spring Boot • Kafka • Kubernetes • Docker • MongoDB • Redis • OpenTelemetry • Grafana • AI integrations
+
+I like building things that actually work in production, scale properly, and solve real problems.
+
+Always curious about new ideas, system design, AI products, and good engineering discussions ☕
 
 
 
