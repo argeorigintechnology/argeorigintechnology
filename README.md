@@ -147,13 +147,16 @@ Personal Website: [mkdir.dev](https://mkdir.dev) or [muzafferkadir.com](https://
 
 </br>
 
-<p align=center>
-  <img src ="./profile/stats.svg">
-  <img src ="./profile/top-langs.svg">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=argeorigintechnology&show_icons=true&theme=transparent&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argeorigintechnology&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <!--
-**muzafferkadir/muzafferkadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**argeorigintechnology/argeorigintechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
