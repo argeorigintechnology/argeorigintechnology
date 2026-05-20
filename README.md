@@ -13,9 +13,8 @@ Always curious about AI, system design, infrastructure, product thinking, and so
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezginkescioglu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@muzafferkadir](https://www.youtube.com/@sezginkescioglu)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezginkescioglu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://www.youtube.com/@sezginkescioglu](https://www.youtube.com/@sezginkescioglu)) 
 
-Personal Website: [mkdir.dev](https://mkdir.dev) or [muzafferkadir.com](https://www.muzafferkadir.com/)
 
 ## 💻 Tech Stack:
 
