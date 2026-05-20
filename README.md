@@ -3,18 +3,12 @@
 <img src="https://komarev.com/ghpvc/?username=argeorigintechnology&label=Profile%20views&color=0e75b6&style=flat" alt="sezginkescioglu" />
 Hi there 👋
 
-I’m a Software Architect & Backend Engineer who enjoys building scalable systems, AI-powered products, and turning messy infrastructures into clean and maintainable platforms.
-
-For the last 11+ years, I’ve worked on telecom, finance, aviation, and enterprise projects — mostly around microservices, distributed systems, Kubernetes, observability, and backend architecture.
-
-Lately, I’ve been focusing heavily on AI integrations, RAG systems, LLM workflows, and conversational product experiences. Currently building AkıllıEmlak under Origin Technology — an AI-powered real estate platform where users can search homes using natural language.
-
-Tech I frequently work with:
-Java • Spring Boot • Kafka • Kubernetes • Docker • MongoDB • Redis • OpenTelemetry • Grafana • AI integrations
-
-I like building things that actually work in production, scale properly, and solve real problems.
-
-Always curious about new ideas, system design, AI products, and good engineering discussions ☕
+I'm Sezgin — a Software Architect & AI-focused Backend Engineer who enjoys building scalable systems, intelligent products, and production-grade architectures.
+For the last 11+ years, I’ve worked in telecom, finance, aviation, and enterprise environments, mostly focused on distributed systems, backend architecture, cloud-native infrastructures, and platform engineering.
+Lately, I’ve been spending most of my time building AI-powered platforms, conversational experiences, semantic search systems, and RAG-based applications.
+Currently building AkıllıEmlak under Origin Technology — an AI-powered real estate & lifestyle discovery platform designed around natural language interaction and intelligent recommendations.
+I enjoy transforming complex and chaotic systems into scalable, maintainable, and observable platforms that actually work in production.
+Always curious about AI, system design, infrastructure, product thinking, and solving real-world problems through technology ☕
 
 
 
